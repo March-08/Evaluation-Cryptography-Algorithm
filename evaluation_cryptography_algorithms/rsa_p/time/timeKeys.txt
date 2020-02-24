@@ -1,0 +1,8 @@
+avg private keys : 0.16345269999999992
+avg public keys : 0.03553792499999999
+max_pvt_key: 0.505162
+max_pbl_key: 0.082866
+min_pvt_key: 0.505162
+min_pbl_key: 0.082866
+total_private_keys : 65.38107999999997
+total_public_keys : 14.215169999999997
