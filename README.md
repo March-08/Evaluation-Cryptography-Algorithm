@@ -1,5 +1,5 @@
 
-##Progetto Teoria della sicurezza e crittografia 2019-2020 Gruppo: Politi – Salman – Silvestri
+## Progetto Teoria della sicurezza e crittografia 2019-2020 Gruppo: Politi – Salman – Silvestri
 
 Valutazione costi benefici dei principali algoritmi di crittografia:
 
